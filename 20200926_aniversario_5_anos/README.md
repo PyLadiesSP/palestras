@@ -1,11 +1,7 @@
 # [Evento 5 anos PyLadies São Paulo](https://pyladiessp.github.io/palestras/20200926_aniversario_5_anos)
 
-Palestras que ocorreram no evento de 5 anos PyLadies São Paulo em 26 de setembro de 2020:
+Palestras que ocorreram no evento de 5 anos PyLadies São Paulo em 26 de setembro de 2020.
 
-- [Rotina de uma desenvolvedora](https://pyladiessp.github.io/palestras/20200926_aniversario_5_anos/Rotina_de_uma_desenvolvedora.pdf)
-
-- [Rotina de uma analista de dados](https://pyladiessp.github.io/palestras/20200926_aniversario_5_anos/Rotina_de_uma_analista_de_dados.pdf)
-
-- [Evento no YouTube](https://www.youtube.com/watch?v=YtdipaxKqdg)
+Para conferir as atividades do evento acesse [nosso vídeo no YouTube](https://www.youtube.com/watch?v=YtdipaxKqdg)
 
 
